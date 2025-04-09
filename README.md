@@ -8,7 +8,7 @@ Python 3
 
 Pandas – for data handling
 
-Matplotlib / Seaborn – for data visualization
+Matplotlib / Seaborn / plotly express– for data visualization
 
 NLTK / TextBlob / Vader – for sentiment analysis
 
