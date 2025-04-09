@@ -31,16 +31,6 @@ Lemmatization
 📂 Dataset
 Source: The dataset consists of tweets collected using specific keywords related to mental health (e.g., "depression", "anxiety", "stress").
 
-Preprocessing:
-
-Cleaning tweets (removing links, mentions, special characters)
-
-Tokenization and lowercasing
-
-Stopwords removal
-
-Lemmatization
-
 
 
 
